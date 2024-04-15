@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Jest coverage reports
+coverage/
+
+# Environment files
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Personal configuration files
+*.config.js
